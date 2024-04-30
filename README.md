@@ -1,3 +1,4 @@
+!["final rendering for try it together"](assets/images/screen-yourself.png)
 # Semantic HTML Elements Lab 1 - Try it Yourself
 
 ## Description 📄
@@ -17,7 +18,7 @@ In this Try It Yourself activity, you'll be code detectives! We'll start with so
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 
 1. [ ] Choose which generative AI you would like to use. 
-2. [ ] Write a prompt using your prompt engineering skills that will ask the AI to refactor the HTML into semantic HTML for you. 
+2. [ ] Write a prompt using your prompt engineering skills asking the AI to refactor the HTML into semantic HTML for you. 
 3. [ ] Copy the HTML document and paste it in the generative AI after your prompt.
 4. [ ] Watch the AI work.
 5. [ ] Note the changes that AI made to your document. 
