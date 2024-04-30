@@ -20,6 +20,8 @@ In this Try It Yourself activity, you'll be code detectives! We'll start with so
 5. [ ] Note the changes that AI made to your document. 
    1. [ ] What is different? 
    2. [ ] What stayed the same?
+   3. [ ] Did the AI give any explanations
+6. [ ] Copy and paste the refactored code to your codespace and save it. You will use it in the next activity. 
 
 ---
 
