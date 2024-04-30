@@ -1,4 +1,4 @@
-# HTML Elements and Tags Lab 3 - Try it Yourself
+# Semantic HTML Elements Lab 1 - Try it Yourself
 
 ## Description 📄
 In this Try It Yourself activity, you'll be code detectives! We'll start with some classic, non-semantic HTML. Then, we'll leverage the power of generative AI to see how it suggests making the code more meaningful.  By the end, you'll be able to identify generic elements, grasp the power of semantic HTML, and build your own well-structured web pages using elements like `<nav>`, `<main>`, and `<section>`. Get ready to code like a pro!
