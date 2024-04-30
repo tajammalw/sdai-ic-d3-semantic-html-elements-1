@@ -7,6 +7,9 @@ In this Try It Yourself activity, you'll be code detectives! We'll start with so
 
 ## Acceptance Criteria 📋
 
+**Refactor generic elements:** Replacing generic elements with semantic ones.
+**Using generative AI:** Use generative AI to refactor a codebase ethically and professionally.
+**Embrace semantic elements:** Reading the response from generative AI on the reason for the use of semantic elements.
 
 ---
 
