@@ -22,7 +22,6 @@ Should you need guidance on how to fork, open, edit, and maintain your codespace
 
 [GitHub Codespaces Guidance](https://gist.github.com/JohnWP8253/4fff80f43d07a04ee3f1514c0a1d354a)
 
-<a href="https://gist.github.com/JohnWP8253/4fff80f43d07a04ee3f1514c0a1d354a" target="_blank">GitHub Codespace Guidance</a>
 ---
 
 ## ToDo list ✅
